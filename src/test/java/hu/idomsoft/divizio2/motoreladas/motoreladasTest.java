@@ -5,7 +5,7 @@ package hu.idomsoft.divizio2.motoreladas;
 
         import static org.junit.Assert.*;
 
-public class unitTest {
+public class motoreladasTest {
 
     @Test
     public void method1() {

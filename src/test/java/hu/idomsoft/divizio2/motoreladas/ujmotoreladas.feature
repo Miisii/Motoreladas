@@ -13,3 +13,15 @@ Jellemző: új motor beszerzése rendelésre
     Ha az előleg ki lett fizetve
     És megkapta a banktól az elbírált hitelt
     Akkor a motort meg lehet rendelni a gyártól
+
+  Forgatókönyv: motorbeszámítással
+    Amennyiben megrendelés érkezett egy motorra
+    Akkor a beszámítandó motor értéke levonásra kerül a teljes vételárból
+    Ha az előleg ki lett fizetve
+    Akkor a motort meg lehet rendelni a gyártól
+
+  Forgatókönyv: autóbeszámítással
+    Amennyiben megrendelés érkezett egy motorra
+    Akkor a beszámítandó autó értéke levonásra kerül a teljes vételárból
+    Ha az előleg ki lett fizetve
+    Akkor a motort meg lehet rendelni a gyártól
